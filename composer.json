@@ -1,0 +1,18 @@
+{
+    "name": "june/chunk-norris-jokes",
+    "description": "package practice",
+    "authors": [
+        {
+            "name": "ShinHyungJune",
+            "email": "ssa4141@naver.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "June\\ChunkNorrisJokes\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
